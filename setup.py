@@ -8,7 +8,7 @@ setuptools.setup(
     version=r'1.0.0',
     author=r'Bernhard Schäfl',
     author_email=r'schaefl@ml.jku.at',
-    url=r'https://github.com/ml-jku/hopular',
+    url=r'https://github.com/nikiandr/hopular',
     description=r'A novel deep learning architecture based on continuous modern Hopfield networks' +
                 r' for tackling small tabular datasets.',
     long_description=long_description,
