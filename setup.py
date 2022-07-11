@@ -20,7 +20,7 @@ setuptools.setup(
         r'fairscale>=0.4.3',
         r'scikit-learn>=1.0.1',
         r'pandas>=1.3.3',
-        r'hopfield-layers@git+https://github.com/ml-jku/hopfield-layers'
+        r'hopfield-layers@git+https://github.com/nikiandr/hopfield-layers'
     ],
     zip_safe=True,
     include_package_data=True,
