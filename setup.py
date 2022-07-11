@@ -14,7 +14,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type=r'text/markdown',
     packages=setuptools.find_packages(),
-    python_requires=r'>=3.8.0',
+    python_requires=r'>=3.7.0',
     install_requires=[
         r'pytorch-lightning>=1.4.9',
         r'fairscale>=0.4.3',
